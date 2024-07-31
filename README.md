@@ -1,6 +1,6 @@
-# Overview
+# ***Overview Of Data-Visuilization Repository*** 
 
-- This repository contains three Python scripts showcasing different approaches to data visualization using popular libraries: `matplotlib`, `seaborn`, and `pandas`. Each script demonstrates unique capabilities and visual styles, enabling you to choose the best tool for your data analysis and visualization needs.
+- The `Data-Visualization` repository is a beginner-friendly collection focused on teaching the fundamentals of creating graphs and charts. Each project provides step-by-step tutorials on transforming data into insightful visuals using libraries like Matplotlib, Seaborn, Plotly And Other Visuilization Library That Will be uploaded soon. This repository is perfect for those new to data visualization, offering clear instructions to help you effectively communicate data insights through interesting visuals.
   
 # ***Content***
 ### **Matplotlib**
